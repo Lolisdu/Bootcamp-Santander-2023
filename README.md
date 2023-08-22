@@ -11,6 +11,8 @@ Dio |  Bootcamp-Santander-2023 <br>
 📝 Tarefas <br>
  #Perfil Git Hub- Estruturado <br>
  #Caderno de Estudos | [Notion] (https://www.notion.so/debora-dev/Caderno-de-Estudos-52af39a2f5984bf980f1252135c8650f)
+ Pokedex | Desenvolvendo plataforma responsiva 🧩
+ 
 
 
 🤓 Mentores <br>
@@ -19,9 +21,11 @@ Dio |  Bootcamp-Santander-2023 <br>
 | Notion- ..  [Elidiana Andrade]  <br>
 | HTML | CSS - .. [Lucas Vilaboim]  <br>
 | Javascript | .. [Diana Martine] <br>
+| Javascript | .. [Renan Johannsen]<br>
 
 🔍Pesquisas <br>
 Site -[readme.so] (https://readme.so/pt/editor)<br>
+CDN - [normalise.css] (https://cdnjs.com/libraries/normalize)
 
 
 
