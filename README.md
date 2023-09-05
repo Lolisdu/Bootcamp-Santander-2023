@@ -9,9 +9,9 @@ Dio |  Bootcamp-Santander-2023 <br>
 ✔ em aprendizado ...<br><br>
 
 📝 Tarefas <br>
- #Perfil Git Hub- Estruturado <br>
- #Caderno de Estudos | [Notion] (https://www.notion.so/debora-dev/Caderno-de-Estudos-52af39a2f5984bf980f1252135c8650f)
- Pokedex | Desenvolvendo plataforma responsiva 🧩
+ Perfil Git Hub- Estruturado <br>
+ Caderno de Estudos | [Notion] (https://www.notion.so/debora-dev/Caderno-de-Estudos-52af39a2f5984bf980f1252135c8650f)<br>
+ Pokedex | (https://github.com/Lolisdu/js-developer-pokedex)
  
 
 
